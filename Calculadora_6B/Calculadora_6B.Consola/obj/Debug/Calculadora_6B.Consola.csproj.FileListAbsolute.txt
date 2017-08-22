@@ -1,0 +1,7 @@
+C:\Users\FreddySO08\Documents\Visual Studio 2015\Projects\Calculadora_6B\Calculadora_6B.Consola\bin\Debug\Calculadora_6B.Consola.exe.config
+C:\Users\FreddySO08\Documents\Visual Studio 2015\Projects\Calculadora_6B\Calculadora_6B.Consola\bin\Debug\Calculadora_6B.Consola.exe
+C:\Users\FreddySO08\Documents\Visual Studio 2015\Projects\Calculadora_6B\Calculadora_6B.Consola\bin\Debug\Calculadora_6B.Consola.pdb
+C:\Users\FreddySO08\Documents\Visual Studio 2015\Projects\Calculadora_6B\Calculadora_6B.Consola\bin\Debug\Calculadora_6B.libreria.dll
+C:\Users\FreddySO08\Documents\Visual Studio 2015\Projects\Calculadora_6B\Calculadora_6B.Consola\bin\Debug\Calculadora_6B.libreria.pdb
+C:\Users\FreddySO08\Documents\Visual Studio 2015\Projects\Calculadora_6B\Calculadora_6B.Consola\obj\Debug\Calculadora_6B.Consola.exe
+C:\Users\FreddySO08\Documents\Visual Studio 2015\Projects\Calculadora_6B\Calculadora_6B.Consola\obj\Debug\Calculadora_6B.Consola.pdb

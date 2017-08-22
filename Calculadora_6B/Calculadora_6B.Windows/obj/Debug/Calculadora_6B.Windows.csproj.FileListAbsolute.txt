@@ -1,0 +1,11 @@
+c:\users\freddyso08\documents\visual studio 2015\Projects\Calculadora_6B\Calculadora_6B.Windows\bin\Debug\Calculadora_6B.Windows.exe.config
+c:\users\freddyso08\documents\visual studio 2015\Projects\Calculadora_6B\Calculadora_6B.Windows\bin\Debug\Calculadora_6B.Windows.exe
+c:\users\freddyso08\documents\visual studio 2015\Projects\Calculadora_6B\Calculadora_6B.Windows\bin\Debug\Calculadora_6B.Windows.pdb
+c:\users\freddyso08\documents\visual studio 2015\Projects\Calculadora_6B\Calculadora_6B.Windows\bin\Debug\Calculadora_6B.libreria.dll
+c:\users\freddyso08\documents\visual studio 2015\Projects\Calculadora_6B\Calculadora_6B.Windows\bin\Debug\Calculadora_6B.libreria.pdb
+c:\users\freddyso08\documents\visual studio 2015\Projects\Calculadora_6B\Calculadora_6B.Windows\obj\Debug\Calculadora_6B.Windows.csprojResolveAssemblyReference.cache
+c:\users\freddyso08\documents\visual studio 2015\Projects\Calculadora_6B\Calculadora_6B.Windows\obj\Debug\Calculadora_6B.Windows.Form1.resources
+c:\users\freddyso08\documents\visual studio 2015\Projects\Calculadora_6B\Calculadora_6B.Windows\obj\Debug\Calculadora_6B.Windows.Properties.Resources.resources
+c:\users\freddyso08\documents\visual studio 2015\Projects\Calculadora_6B\Calculadora_6B.Windows\obj\Debug\Calculadora_6B.Windows.csproj.GenerateResource.Cache
+c:\users\freddyso08\documents\visual studio 2015\Projects\Calculadora_6B\Calculadora_6B.Windows\obj\Debug\Calculadora_6B.Windows.exe
+c:\users\freddyso08\documents\visual studio 2015\Projects\Calculadora_6B\Calculadora_6B.Windows\obj\Debug\Calculadora_6B.Windows.pdb
